@@ -39,8 +39,8 @@ Rebuilt a shell from the ground up in C.
 ---
 
 ## 📊 GitHub Stats  
-![Colin's GitHub stats](https://github-readme-stats.vercel.app/api?username=tonPseudoGitHub&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tonPseudoGitHub&layout=compact&theme=radical)  
+![Colin's GitHub stats](https://github-readme-stats.vercel.app/api?username=ctechy6532&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ctechy6532&layout=compact&theme=radical)  
 
 ---
 
