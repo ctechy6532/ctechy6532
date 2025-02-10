@@ -11,6 +11,7 @@
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
@@ -32,4 +33,20 @@ Multiplayer Pong game with remote play, tournament system, API creation. Built w
 🔹 **[Web Server Creation (C++)](https://github.com/tonRepo)**  
 Designed and implemented a web server from scratch in C++.  
 
-🔹 **[Shell Recreation (C)](https://github.com/tonRepo
+🔹 **[Shell Recreation (C)](https://github.com/tonRepo)**  
+Rebuilt a shell from the ground up in C.  
+
+---
+
+## 📊 GitHub Stats  
+![Colin's GitHub stats](https://github-readme-stats.vercel.app/api?username=tonPseudoGitHub&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tonPseudoGitHub&layout=compact&theme=radical)  
+
+---
+
+## 📫 Connect with Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/colin-techy/)  
+
+---
+
+💡 *"The best way to predict the future is to create it."*  
