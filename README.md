@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+[![42 Profile Card](https://1337-readme-xi.vercel.app/api/profile?cursus=42cursus&dark=true&login=ctechy)](https://github.com/mohouyizme/1337-readme)
 <!--
 **ctechy6532/ctechy6532** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
